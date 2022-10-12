@@ -14,8 +14,12 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 - This repository is open to all members of the GitHub community. Any member may contribute to this project.
 
 ## **Problem Statement: Web-Browser** :sparkles:
- - Simple Web view app with basics funtions.
- - Back , Forward and reload option.
+ - Simple Web view app with basic functions.
+ - User must be able to go back to Previous Page from current page.
+ - User must be able to reload the Current page.
+ - User must be able to view history of user.
+ - User must be able to add bookmark.
+ - User must be able to view Downloads.
 
 ## ***How to contribute?*** :sparkles:
 
