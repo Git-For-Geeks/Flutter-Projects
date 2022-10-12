@@ -18,15 +18,34 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 - Celebrate Git-For-Geeks by getting involved in the open source community by completing some simple tasks in this project.
 - This repository is open to all members of the GitHub community. Any member may contribute to this project.
 
+
+## **Prerequisites**
+
+- you should have Flutter SDK installed in your environment [here](https://flutter.dev/docs/get-started/install).
+
+
 # Some Code Guidelines
--Variable name should be meaningful.
--Use comments in your code.
--Your Code must be pretty formated.
-**After a valid pull request your code will be carefully reviewed and if it matches the rule then it will be accepted otherwise you need to generate a new file**
+-Variable name should be meaningful.<br>
+-Use comments in your code.<br>
+-Your Code must be pretty formated.<br>
+<br>
+***After a valid pull request your code will be carefully reviewed and if it matches the rule then it will be accepted otherwise you need to generate a new file***
 
 # **Flutter Documentation**
--Website = https://docs.flutter.dev/
--Playlist = https://youtube.com/playlist?list=PLzMcBGfZo4-knQWGK2IC49Q_5AnQrFpzv
+- Website = https://docs.flutter.dev/ <br>
+- Beginner Playlist = https://youtube.com/playlist?list=PLzMcBGfZo4-knQWGK2IC49Q_5AnQrFpzv
 
-**End note**
-It's a great privilege of Geeks for Geeks Rcoem.
+# **End note**
+It's a great privilege of Geeks for Geeks Rcoem. All valid pull request will be accepted, this process may take sometime but don't worry.
+
+**Join our community for more events**
+
+[GFG - Rcoem Chapter](https://linktr.ee/gfgrcoem)
+
+[Instagram](https://www.instagram.com/gfg_rcoem_chapter/)
+
+[LinkedIn](https://www.linkedin.com/company/geeksforgeeks-rcoem-chapter/)
+
+### **Keep smiling 😄**
+
+### **Happy coding 🥳**
