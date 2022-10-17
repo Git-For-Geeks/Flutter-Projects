@@ -18,7 +18,6 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
  - A carousel widget to display headlines from around the world.
  - List of News based on Country,Category or language when the user selects from the side drawer.
  - Default country must be india.
- - Must show an error message  when user tries to divide a number by zero.
 
 ## ***How to contribute?*** :sparkles:
 
