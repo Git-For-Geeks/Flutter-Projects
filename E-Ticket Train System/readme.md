@@ -16,7 +16,7 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 ## **Problem Statement: E-Ticket Train System** :sparkles:
  - User should be able to see vacant seats
  - User should be able to see train schedules
- - User should be able to book seats and seats should be allocated to the user according to the no. of sears booked.
+ - User should be able to book seats and seats should be allocated to the user according to the no. of seats booked.
 
 
 ## ***How to contribute?*** :sparkles:
