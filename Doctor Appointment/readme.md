@@ -15,7 +15,7 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 
 ## **Problem Statement: Doctor Appointment** :sparkles:
  - User should be able to view doctors nearby thier location.
- - User should be able to viw doctors according to different categories like cardiologists,general practicioners etc.
+ - User should be able to view doctors according to different categories like cardiologists,general practicioners etc.
  - User should be able to view doctor profile and clinic details.
  - User should be able to book appointment and after the appointment was booked they must recieve confirmation through mail.
  - App must be user friendly and should support multiple language.
