@@ -21,6 +21,7 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
  - The Second Screen includes the shopping cart screen,displays a list of things that the user added to it.<br>If user decides to remove it from cart,a delete button removes the item from the cart screen.
  - The entire cost is shown at the bottom of the screen.
  - A button that shows  proceed to payment option and when user clicks on that it must shows a toast message :"Order confirmed" with the sum total prices of cart items.
+ - It should have database.
 
 ## ***How to contribute?*** :sparkles:
 
