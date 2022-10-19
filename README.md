@@ -22,6 +22,17 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 - **This repository is open to all members who have registered for the Git-For-Geeks Event**.
 
 
+#  :point_right: ***How to contribute?* ✨**
+
+- Fork the Repository.
+- Clone the Repository.
+- Choose a Problem statement from this Flutter-Project Repository and provide a solution.
+- Create an issue and wait for the assignment by the Mantainers.
+- After the issue is assigned to you add your solution to the respective project folder, along with the problem statement file.
+- Now, you are ready to make a pull request.
+- Hola !! You made your PR and wait for the Mantainer to check the Plagarisim and project working.
+
+
 ##   :point_right: **Prerequisites**
 
 - you should have Flutter SDK installed in your environment [here](https://flutter.dev/docs/get-started/install).
