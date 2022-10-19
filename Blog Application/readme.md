@@ -18,7 +18,7 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
  - User should be able to write and read blogs.
  - User should be able to attach images with blog.
  - User should be able to comment on others user blogs.
- - user should be able to delete and edit the posted blog.
+ - user should be able to delete and edit thier posted blog.
 
 
 ## ***How to contribute?*** :sparkles:
