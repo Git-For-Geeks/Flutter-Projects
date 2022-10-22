@@ -19,6 +19,7 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 
 ## ***How to contribute?*** :sparkles:
 
+- Fork the Repository
 - Clone the Repository
 - Choose a Problem statement from this Flutter-Project Repository and provide a solution.
 - Create an issue and wait for the assignment by the Mantainers.
